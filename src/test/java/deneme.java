@@ -6,4 +6,5 @@ public class deneme {
     }
     // hello
     // commit
+    // commit is updated
 }
